@@ -1,0 +1,32 @@
+{
+    "children":[
+        {
+            "text":"une-destination-qui-sort-de-lordinaire.md",
+            "title":"Une destination qui sort de l'ordinaire",
+            "slug":"une-destination-qui-sort-de-lordinaire",
+            "object":"extract"
+        },
+        {
+            "text":"une-journee-en-avion.md",
+            "title":"Une journée en avion",
+            "slug":"une-journee-en-avion",
+            "object":"extract"
+        },
+        {
+            "text":"randonnee-au-dessus-de-longyearbyen.md",
+            "title":"Randonnée au-dessus de Longyearbyen",
+            "slug":"randonnee-au-dessus-de-longyearbyen",
+            "object":"extract"
+        }
+    ],
+    "ready_to_publish":true,
+    "type":"OPINION",
+    "object":"container",
+    "slug":"chronique-du-nord-escapade-dans-larchipel-du-svalbard",
+    "licence":"CC BY-NC-SA",
+    "version":2.1,
+    "conclusion":"conclusion.md",
+    "title":"[Chronique du Nord] Escapade dans l'archipel du Svalbard",
+    "introduction":"introduction.md",
+    "description":"Des avions et des graines"
+}
